@@ -7,13 +7,14 @@ string gender = "M";
 string superpower1 = "Can fly";
 string superpower2 = "Speaks 20 languages";
 string superpower3 = "can be invisable";
+string superpower4 = "can read your mind";
 
 Console.WriteLine("*************************");
 Console.WriteLine($"Hero: {name}");
 Console.WriteLine($"Hight: {hight}");
 Console.WriteLine($"Age: {age}");
 Console.WriteLine($"Gender: {gender}");
-Console.WriteLine($"Superpowers: {superpower1}, {superpower2}, {superpower3}") ;
+Console.WriteLine($"Superpowers: {superpower1}, {superpower2}, {superpower3}, {superpower4}") ;
 Console.WriteLine("*************************");
 
 
